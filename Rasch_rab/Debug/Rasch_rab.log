@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\artur\documents\visual studio 2015\projects\rasch_rab\rasch_rab\source.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+  Rasch_rab.vcxproj -> C:\Users\Artur\Documents\Visual Studio 2015\Projects\Rasch_rab\Debug\Rasch_rab.exe
+  Rasch_rab.vcxproj -> C:\Users\Artur\Documents\Visual Studio 2015\Projects\Rasch_rab\Debug\Rasch_rab.pdb (Partial PDB)
